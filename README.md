@@ -30,7 +30,7 @@ pip install numpy==1.18.5 tensorflow==2.3.1 pandas==1.0.5 gensim==3.8.3
 conda install samtools bedtools -c bioconda
 
 # install from github
-git clone https://github.com/zhengjiantao/DeepRetention.git
+git clone https://github.com/genemine/DeepRetention.git
 ```
 
 ### 2. Docker installation
